@@ -1,3 +1,4 @@
-# stock-in-box
+# single page website
+
 
  Comercial website boilerplate
